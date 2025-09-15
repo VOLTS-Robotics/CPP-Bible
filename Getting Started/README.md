@@ -12,7 +12,11 @@ Installing g++ on windows is a little bit of a hassle, however Microsoft include
 
 Linux users will have the easiest time getting started as installing g++ is as simple as running the following command.
 
-// //
+'''     sudo apt update '''
+
+'''     sudo apt install build-essential'''
+
+'''    g++ --version'''
 
 ## Installing and Configuring VS Code.
 
