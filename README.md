@@ -6,8 +6,8 @@ This repository will be broken down into sections as follows.
 ### **Getting Started**
   A walkthrough to get your C++ coding environment setup.
 
-### **Everything about Main**
-  Explanation of the most import part of C++.
+### **Everything about Hello World**
+  Line by line explanation of Hello World.
 
 ### **Data Types**
 
