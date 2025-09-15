@@ -6,9 +6,13 @@ This section aims to help create a barebones programming environment installing 
 
 ### Windows Users
 
-## Linux Users
+Installing g++ on windows is a little bit of a hassle, however Microsoft includes good tutorials on getting started. I recommend the tutorial linked here, https://code.visualstudio.com/docs/cpp/config-mingw.
 
-Linux users will have the easiest time getting started as each of these will have
+### Linux Users
+
+Linux users will have the easiest time getting started as installing g++ is as simple as running the following command.
+
+// //
 
 ## Installing and Configuring VS Code.
 
